@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm currently a Computer Science student looking to enter the world of coding.
+- I'm a Computer Science student studying a 4 year masters course
+- I know Python, HTML and CSS and I'm in the process of learning Java
 <!--
 **junrsr/junrsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
