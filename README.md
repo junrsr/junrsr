@@ -2,6 +2,8 @@
 
 - I'm a Computer Science student studying a 4 year masters course
 - I know Python, HTML and CSS and I'm in the process of learning Java
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=junrsr)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **junrsr/junrsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
