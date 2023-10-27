@@ -3,7 +3,12 @@
 - I'm a Computer Science student studying a 4 year masters course
 - I know Python, HTML and CSS and I'm in the process of learning Java
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=junrsr)](https://github.com/anuraghazra/github-readme-stats)
+## Stats 
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=junrsr&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junrsr&layout=compact&theme=transparent)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=junrsr&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
 **junrsr/junrsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
