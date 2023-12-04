@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a Computer Science student studying a 4 year masters course
+- I'm a Computer Science student studying at the University of Warwick
 - I know Python, HTML and CSS and I'm in the process of learning Java
 
 ## Stats 
