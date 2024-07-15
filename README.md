@@ -4,8 +4,6 @@
 - I know Python, HTML and CSS and I'm in the process of learning Java
 
 ## Stats 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=junrsr&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junrsr&layout=compact&theme=transparent)
 
 <!--
