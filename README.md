@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm a Computer Science student studying at the University of Warwick
-- I know Python, Java, HTML and CSS
+- I know Java, Python, C
 
 ## Stats 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junrsr&layout=compact&theme=transparent)
